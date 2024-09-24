@@ -1,7 +1,6 @@
-# Climate-Weather-Data-Visualization
-Using meteostat api to analyze and visualise the changes of the weather last 50 years in Athens.
 
-<details><summary> INTRO </summary>
+## INTRO  
+
 
 ### Climate & Weather Data Visualization Project  
 
@@ -41,17 +40,19 @@ The primary objectives of this project include:
   
 
 - Plotly: For interactive data visualization.📊📊📊  
-</details>  
+  
 
 <br/>  
 
-<details><summary> RESULTS AND FINAL THOUGHTS </summary>
+
+## RESULTS AND FINAL THOUGHTS  
+
 
 ### Comparing Summer and Winter Temperatures  
 Compare the average Temperatures over the last 50 years in Athens.  
   
 
-<img src="https://prnt.sc/ak-ZWckGCxZE" align="left" height="300" width="600" />  
+<img src="https://i.ibb.co/rfprgmC/image1.png" align="left" height="300" width="600" />  
   
 
 
@@ -60,14 +61,14 @@ Compare the average Temperatures over the last 50 years in Athens.
 Compare Max and Min Temperatures  
   
 
-<img src="https://prnt.sc/FXrSyAqBph0I" alt="Image Description" style="width: 600px; height: 300px;" />
+<img src="https://i.ibb.co/Jxf39Sh/image2.png" align="left" height="300" width="600" />  
   
 
 
 
 ### Final thoughts  
 Over the last 50 years, both summer and winter temperatures in Athens, Greece, have shown a consistent upward trend, with a significant increase noted in the last few years. This rise in temperatures highlights the pressing effects of climate change in the region, emphasizing the need for awareness and action to address the implications of these shifts in weather patterns.  
-</details>
+
 <br />
 
 ----
