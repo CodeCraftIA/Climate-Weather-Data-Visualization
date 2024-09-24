@@ -42,8 +42,6 @@ The primary objectives of this project include:
 - Plotly: For interactive data visualization.📊📊📊  
   
 
-<br/>  
-
 
 ## RESULTS AND FINAL THOUGHTS  
 
@@ -69,5 +67,4 @@ Compare Max and Min Temperatures
 ### Final thoughts  
 Over the last 50 years, both summer and winter temperatures in Athens, Greece, have shown a consistent upward trend, with a significant increase noted in the last few years. This rise in temperatures highlights the pressing effects of climate change in the region, emphasizing the need for awareness and action to address the implications of these shifts in weather patterns.  
 
-<br />
 
