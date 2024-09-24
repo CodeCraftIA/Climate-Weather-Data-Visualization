@@ -71,5 +71,3 @@ Over the last 50 years, both summer and winter temperatures in Athens, Greece, h
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
