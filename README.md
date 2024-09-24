@@ -17,8 +17,8 @@ The primary objectives of this project include:
 - Data Collection: Scraping and processing weather data for Athens from the Meteostat API, focusing on a time span from 2000 to 2023.  
   
 
-- 
-Data Analysis: Calculating key statistics, such as average temperatures (both summer and winter), maximum and minimum temperatures, and mean values for precipitation, wind speed, sunshine, and air pressure.
+ 
+- Data Analysis: Calculating key statistics, such as average temperatures (both summer and winter), maximum and minimum temperatures, and mean values for precipitation, wind speed, sunshine, and air pressure.
   
   
 
@@ -60,7 +60,7 @@ Compare the average Temperatures over the last 50 years in Athens.
 Compare Max and Min Temperatures  
   
 
-<img src="https://prnt.sc/FXrSyAqBph0I" align="left" height="300" width="600" />  
+<img src="https://prnt.sc/FXrSyAqBph0I" alt="Image Description" style="width: 600px; height: 300px;" />
   
 
 
