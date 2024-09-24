@@ -45,26 +45,28 @@ The primary objectives of this project include:
 
 ## RESULTS AND FINAL THOUGHTS  
 
-
 ### Comparing Summer and Winter Temperatures  
 Compare the average Temperatures over the last 50 years in Athens.  
-  
 
-<img src="https://i.ibb.co/rfprgmC/image1.png" align="left" height="300" width="600" />  
-  
-
-
+<div style="display: flex; align-items: center;">
+    <img src="https://i.ibb.co/rfprgmC/image1.png" height="300" width="600" style="margin-right: 20px;"/>
+    <div>
+        <p><strong>Figure 1:</strong> Average Summer and Winter Temperatures in Athens (Last 50 Years)</p>
+    </div>
+</div>  
 
 ### Max and Min Temperatures with Regression  
 Compare Max and Min Temperatures  
-  
 
-<img src="https://i.ibb.co/Jxf39Sh/image2.png" align="left" height="300" width="600" />  
-  
-
-
+<div style="display: flex; align-items: center;">
+    <img src="https://i.ibb.co/Jxf39Sh/image2.png" height="300" width="600" style="margin-right: 20px;"/>
+    <div>
+        <p><strong>Figure 2:</strong> Max and Min Temperatures in Athens with Regression Analysis</p>
+    </div>
+</div>  
 
 ### Final thoughts  
-Over the last 50 years, both summer and winter temperatures in Athens, Greece, have shown a consistent upward trend, with a significant increase noted in the last few years. This rise in temperatures highlights the pressing effects of climate change in the region, emphasizing the need for awareness and action to address the implications of these shifts in weather patterns.  
+Over the last 50 years, both summer and winter temperatures in Athens, Greece, have shown a consistent upward trend, with a significant increase noted in the last few years. This rise in temperatures highlights the pressing effects of climate change in the region, emphasizing the need for awareness and action to address the implications of these shifts in weather patterns.
+
 
 
